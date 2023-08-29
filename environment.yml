@@ -6,5 +6,4 @@ dependencies:
   - numpy
   - matplotlib
   - scipy
-  - mpl_toolkits
   - ipympl
