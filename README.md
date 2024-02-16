@@ -3,3 +3,4 @@
 </a>
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tamarabidone/LabBrownianMotion/HEAD?labpath=random_walk.ipynb)
+
